@@ -1,4 +1,4 @@
-# Blog de Educação - [Nome do Blog]
+# Blog de Educação - Construindo Saberes
 
 ## Visão Geral
 
